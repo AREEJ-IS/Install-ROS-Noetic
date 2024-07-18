@@ -235,6 +235,14 @@ Finally, Ubuntu is ready
 
 
 
+
+
+
+
+
+
+
+
 <img width="718" alt="التقاط PNG3" src="https://github.com/user-attachments/assets/8daab980-ce97-4c03-a524-dc947afe8db8">
 
 
