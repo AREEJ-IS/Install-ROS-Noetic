@@ -71,7 +71,7 @@ We will now go through the steps to adjust the settings of the virtual machine w
 
 
 
-<img width="900" alt="9" src="https://github.com/user-attachments/assets/9fcba0d0-48d4-4f20-a53e-dd312d5f92c4">
+<img width="720" alt="9" src="https://github.com/user-attachments/assets/9fcba0d0-48d4-4f20-a53e-dd312d5f92c4">
 
 
 ## Step 4 : Install ROS-Noetic on Ubuntu 20.04
