@@ -79,7 +79,7 @@ We will now go through the steps to adjust the settings of the virtual machine w
 
 
 
-2- From General (Advanced) Change to (Bi-Directional) This will allow you to transfer files from your platform to your device virtual system and vice versa
+2- From General (Advanced) Change to (Bidirectional) This will allow you to transfer files from your platform to your device virtual system and vice versa
 
 
 
@@ -127,29 +127,120 @@ After adjusting the virtual machine settings, we will now take the steps to oper
 
 
 3-choose the language that you prefer then click (install Ubuntu)
+
+
+
+
 <img width="888" alt="Screen Shot 2024-07-19 at 12 50 10 AM" src="https://github.com/user-attachments/assets/5100e3ed-9e89-4ca0-ac7d-d82d4b847160">
 
+
+
+
 4-choose (English) then click continue
+
+
+
+
 <img width="858" alt="Screen Shot 2024-07-19 at 12 50 57 AM" src="https://github.com/user-attachments/assets/8b098065-d4dd-49a2-8f14-63fcee2c93ae">
 
+
+
+
 5- now make sure to check (install third party software for graphics and Wi-Fi ) them click (continue)
+
+
+
+
 <img width="850" alt="Screen Shot 2024-07-19 at 12 51 35 AM" src="https://github.com/user-attachments/assets/bacbe39c-6a75-44d7-acdb-f0e7f0033fee">
 
+
+
+
 6- select the first option and click (install now)
+
+
+
+
 <img width="859" alt="Screen Shot 2024-07-19 at 12 52 03 AM" src="https://github.com/user-attachments/assets/1e88846a-b2ce-48ab-b36a-9cbe5fd0108a">
 
+
+
+
+
 7- click (continue
+
+
+
+
 <img width="864" alt="Screen Shot 2024-07-19 at 12 52 35 AM" src="https://github.com/user-attachments/assets/51ef1d80-c821-4dad-b429-566c96c8b59e">
 
+
+
+
+
 8-Determine the approximate area in which you live
+
+
 9- Enter your name, computer`s name and set a password
+
+
+
+
 <img width="856" alt="Screen Shot 2024-07-19 at 12 53 06 AM" src="https://github.com/user-attachments/assets/55a55be5-f9ff-484b-a327-c8096083f628">
 
+
+
+
+
 10- click (restart now) and wait
+
+
+
+
 <img width="852" alt="Screen Shot 2024-07-19 at 12 53 51 AM" src="https://github.com/user-attachments/assets/5dab026d-0342-4b6a-89f8-b25f9fe91ffe">
 
+
+
+
+
 11- Now click (Enter)
+
+
+
+
 <img width="848" alt="Screen Shot 2024-07-19 at 12 54 25 AM" src="https://github.com/user-attachments/assets/f54857fb-b9e1-46db-8d09-c09cf58599f1">
 
+
+
+
+Finally, Ubuntu is ready
+
+
+
+
+<img width="957" alt="التقاط" src="https://github.com/user-attachments/assets/ba4df2af-fc31-4e14-9af4-0ed228ba5c5b">
+
+
+
+
 ## Step 4 : Install ROS-Noetic on Ubuntu 20.04
+
+1- Open the open terminal from this mark
+
+
+
+
+<img width="286" alt="التقاط" src="https://github.com/user-attachments/assets/eb21c066-72a7-4186-a228-848021128615">
+
+
+
+
+<img width="718" alt="التقاط PNG3" src="https://github.com/user-attachments/assets/8daab980-ce97-4c03-a524-dc947afe8db8">
+
+
+
+
+2- follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1 (copy and paste)
+
+ 
 ## Step 5 : Done
