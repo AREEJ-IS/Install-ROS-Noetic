@@ -225,7 +225,7 @@ Finally, Ubuntu is ready
 
 ## Step 4 : Install ROS-Noetic on Ubuntu 20.04
 
-1- Open the open terminal from this mark
+1- open terminal from this mark
 
 
 
@@ -235,11 +235,7 @@ Finally, Ubuntu is ready
 
 
 
-
-
-
-
-
+2- Write in search (terminal)
 
 
 
