@@ -7,6 +7,7 @@ click Downloads , then choose appropriate one to your computer (example: Windows
 
 <img width="1440" alt="Screen Shot 2024-07-18 at 10 32 18 PM" src="https://github.com/user-attachments/assets/92d5300f-c4a7-45ba-ba38-a8f772899ca6">
 
+
 Then complete the download like other programs
 
 ## Step 2 : download Ubuntu 20.04
@@ -23,25 +24,32 @@ Go back to VirtualBox, open it, and then follow these steps to create a virtual 
 1-click (New)
 
 
+
 <img width="960" alt="التقاط PNG5" src="https://github.com/user-attachments/assets/d5e52148-974b-4e5e-a419-82a6547ed7ad">
+
 
 
 2- Choose a name for your system environment, and be sure to choose the appropriate version of Ubuntu
 then click next
 
 
+
 <img width="720" alt="33" src="https://github.com/user-attachments/assets/cd5acbab-824a-46c4-8aae-3f5fa33e4f19">
+
 
 
 3- Specify the amount of memory within the green color, then click (Next)
 
 
+
 <img width="721" alt="التقاط PNG6" src="https://github.com/user-attachments/assets/eb1c2dc1-8caa-4b1d-a669-c86c4863c0d1">
+
 
 
 4- In the (hard disk) partition you can choose (create a virtual hard disk now) from the list, then click (create)
 
 5- select the size of the virtual hard disk (It is recommended to be more than 30 GB), then click (Next)
+
 
 
 <img width="715" alt="التقاط PNG88" src="https://github.com/user-attachments/assets/5c91a1d4-cb89-4700-aeaa-cb5228a57aae">
