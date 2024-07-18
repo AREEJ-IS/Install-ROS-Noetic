@@ -9,6 +9,11 @@ click Downloads , then choose appropriate one to your computer (example: Windows
 
 
 
+
+
+
+
+
 Then complete the download like other programs
 
 ## Step 2 : download Ubuntu 20.04
