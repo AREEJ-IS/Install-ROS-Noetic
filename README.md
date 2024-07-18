@@ -244,7 +244,7 @@ Finally, Ubuntu is ready
 
 
 
-2- follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1 (copy and paste)
+3- follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1 (copy and paste)
 
  
 ## Step 5 : Done
