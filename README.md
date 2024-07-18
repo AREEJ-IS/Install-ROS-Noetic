@@ -59,5 +59,20 @@ then click next
 
 now you will see your virtual invironment on the left section
 
+
+<img width="959" alt="9" src="https://github.com/user-attachments/assets/37134b36-366c-48f3-8504-474342318209">
+
+
+
+We will now go through the steps to adjust the settings of the virtual machine we created 
+
+
+1-Select the virtual machine and click (Settings)
+
+
+
+<img width="900" alt="9" src="https://github.com/user-attachments/assets/9fcba0d0-48d4-4f20-a53e-dd312d5f92c4">
+
+
 ## Step 4 : Install ROS-Noetic on Ubuntu 20.04
 ## Step 5 : Done
